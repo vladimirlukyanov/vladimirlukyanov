@@ -34,6 +34,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [SpeedRun frontend coding | UltraTendency coding test](https://www.youtube.com/watch?v=rcj9HwMnsus)
 <!-- YOUTUBE:END -->
 
 

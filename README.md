@@ -6,9 +6,7 @@
   <img src="https://github.com/vladimirlukyanov/vladimirlukyanov/blob/master/.imgs/hello5.gif?raw=true" alt="hello" width="50%">
 </p>
 
-```diff
 ▁ ▂ ▃ ▄ ▅ ▆ ▇ ▌　𝔄𝔟𝔬𝔲𝔱 𝔐𝔢　 ▌ ▇ ▆ ▅ ▄ ▃ ▂ ▁
-```
 
 
 ### 👋 Hi there, I'm Vladimir Lukyanov

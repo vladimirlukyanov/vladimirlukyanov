@@ -23,7 +23,7 @@
 
 
 ### Connect with me:
-[ [nulllab.net][website] ] – [ [youtube][youtube] ] – [ [twitter][twitter] ] – [ [instagram][instagram] ]
+[ [nulllab.net](https://nulllab.net) ] – [ [youtube](https://www.youtube.com/channel/UCplOorzqj4lqljTh77CID_w) ] – [ [twitter](https://twitter.com/liikyanov) ] – [ [instagram](http://instagram.com/liikyanov) ]
 
 <p align="left">
   <img src="https://github.com/vladimirlukyanov/vladimirlukyanov/blob/master/.imgs/hello.gif?raw=true" alt="hello" width="50%">
@@ -32,8 +32,3 @@
 ```diff
 =^._.^= ∫
 ```
-
-[website] : https://nulllab.net
-[youtube] : https://www.youtube.com/channel/UCplOorzqj4lqljTh77CID_w
-[twitter] : https://twitter.com/liikyanov
-[instagram] : http://instagram.com/liikyanov

@@ -11,8 +11,8 @@
 
 ### 👋&nbsp; Hi there, I'm Vladimir Lukyanov
 
-　∧＿∧
-（｡･ω･｡)つ━☆・*。
+∧＿∧
+｡･ω･｡)つ━☆・*。
 
 - ✨&nbsp; Innovative, creative and a proven team player
 - 💻&nbsp; Have 7+ years building developing and managing websites

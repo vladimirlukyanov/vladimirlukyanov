@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://github.com/vladimirlukyanov/vladimirlukyanov/blob/master/.imgs/hello.gif?raw=true" alt="hello" width="50%">
+  <img src="https://github.com/vladimirlukyanov/vladimirlukyanov/blob/master/.imgs/car.gif?raw=true" alt="hello" width="50%">
 </p>
 
 ### Hi there, I'm Vladimir Lukyanov 👋
@@ -10,5 +10,13 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
+<p align="left">
+  <img src="https://github.com/vladimirlukyanov/vladimirlukyanov/blob/master/.imgs/detective.gif?raw=true" alt="hello" width="50%">
+</p>
+
 ### Connect with me:
 [ [nulllab.net](https://nulllab.net) ] – [ [youtube](https://www.youtube.com/channel/UCplOorzqj4lqljTh77CID_w) ] – [ [twitter](https://twitter.com/liikyanov) ] – [ [instagram](http://instagram.com/liikyanov) ]
+
+<p align="left">
+  <img src="https://github.com/vladimirlukyanov/vladimirlukyanov/blob/master/.imgs/hello.gif?raw=true" alt="hello" width="50%">
+</p>

@@ -2,6 +2,8 @@
   <img src="https://github.com/vladimirlukyanov/vladimirlukyanov/blob/master/.imgs/hello5.gif?raw=true" alt="hello" width="50%">
 </p>
 
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
 ### Hi there, I'm Vladimir Lukyanov 👋
 
 - 🔭 I’m currently working on a [VS Code Course][website]!
@@ -13,6 +15,8 @@
 <p align="left">
   <img src="https://github.com/vladimirlukyanov/vladimirlukyanov/blob/master/.imgs/detective.gif?raw=true" alt="hello" width="15%">
 </p>
+
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
 
 ### Connect with me:
 [ [nulllab.net](https://nulllab.net) ] – [ [youtube](https://www.youtube.com/channel/UCplOorzqj4lqljTh77CID_w) ] – [ [twitter](https://twitter.com/liikyanov) ] – [ [instagram](http://instagram.com/liikyanov) ]

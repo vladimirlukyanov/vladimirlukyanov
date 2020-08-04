@@ -19,7 +19,7 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ```diff
-꧙꧙꧙꧙꧙꧙꧙꧙꧙꧙꧙꧙
+# ꧙꧙꧙꧙꧙ ✧/ᐠ-ꞈ-ᐟ\ ꧙꧙꧙꧙꧙꧙꧙
 ```
 
 <p align="left">
@@ -30,7 +30,7 @@
 [ [nulllab.net](https://nulllab.net) ] – [ [youtube](https://www.youtube.com/channel/UCplOorzqj4lqljTh77CID_w) ] – [ [twitter](https://twitter.com/liikyanov) ] – [ [instagram](http://instagram.com/liikyanov) ]
 
 ```diff
-꧙꧙꧙꧙꧙꧙꧙꧙꧙꧙꧙꧙
+# ·͙*̩̩͙˚̩̥̩̥*̩̩̥͙·̩̩̥͙☆*̩̩̥͙˚̩̥̩̥*̩̩͙‧͙[⸍̣⸌•ﻌ•⸍⸌]█▒█ﾉ彡*:･ﾟ⋄✧☆·͙*̩̩͙˚̩̥̩̥☆*̩̩̥͙·̩̩̥͙*̩̩̥͙˚̩̥̩̥*̩̩͙‧͙
 ```
 
 <p align="left">

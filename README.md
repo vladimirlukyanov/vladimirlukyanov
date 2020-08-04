@@ -8,7 +8,7 @@
 
 ▁ ▂ ▃ ▄ ▅ ▆ ▇ ▌　𝔄𝔟𝔬𝔲𝔱 𝔐𝔢　 ▌ ▇ ▆ ▅ ▄ ▃ ▂ ▁
 
-### Hi there, I'm Vladimir Lukyanov 👋
+### 👋 Hi there, I'm Vladimir Lukyanov
 
 - 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything 🤣
@@ -23,6 +23,10 @@
 
 ### Connect with me:
 [ [nulllab.net](https://nulllab.net) ] – [ [youtube](https://www.youtube.com/channel/UCplOorzqj4lqljTh77CID_w) ] – [ [twitter](https://twitter.com/liikyanov) ] – [ [instagram](http://instagram.com/liikyanov) ]
+
+```diff
+꧙꧙꧙꧙꧙꧙꧙꧙꧙꧙꧙꧙
+```
 
 <p align="left">
   <img src="https://github.com/vladimirlukyanov/vladimirlukyanov/blob/master/.imgs/coffee.gif?raw=true" alt="hello" width="15%">

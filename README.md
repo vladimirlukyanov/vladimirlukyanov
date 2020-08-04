@@ -1,7 +1,7 @@
 <h2>Hello visitor</h2>
 
 <p align="left">
-  <img src="https://github.com/vladimirlukyanov/vladimirlukyanov/blob/master/.imgs/hello3.gif?raw=true" alt="hello" width="50%">
+  <img src="https://github.com/vladimirlukyanov/vladimirlukyanov/blob/master/.imgs/hello4.gif?raw=true" alt="hello" width="50%">
 </p>
 
 ### Hi there, I'm Vladimir Lukyanov 👋

@@ -11,7 +11,7 @@
 
 ### 👋&nbsp; Hi there, I'm Vladimir Lukyanov
 
-∧＿∧
+∧＿∧<br />
 ｡･ω･｡)つ━☆・*。
 
 - ✨&nbsp; Innovative, creative and a proven team player

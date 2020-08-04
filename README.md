@@ -6,7 +6,9 @@
   <img src="https://github.com/vladimirlukyanov/vladimirlukyanov/blob/master/.imgs/hello5.gif?raw=true" alt="hello" width="50%">
 </p>
 
+```diff
 ▁ ▂ ▃ ▄ ▅ ▆ ▇ ▌　𝔄𝔟𝔬𝔲𝔱 𝔐𝔢　 ▌ ▇ ▆ ▅ ▄ ▃ ▂ ▁
+```
 
 
 ### 👋 Hi there, I'm Vladimir Lukyanov
@@ -17,8 +19,9 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
+```diff
 ꧙꧙꧙꧙꧙ ✧/ᐠ-ꞈ-ᐟ\ ꧙꧙꧙꧙꧙꧙꧙
-
+```
 
 <p align="left">
   <img src="https://github.com/vladimirlukyanov/vladimirlukyanov/blob/master/.imgs/detective.gif?raw=true" alt="hello" width="15%">
@@ -27,7 +30,8 @@
 ### Connect with me:
 [ [nulllab.net](https://nulllab.net) ] – [ [youtube](https://www.youtube.com/channel/UCplOorzqj4lqljTh77CID_w) ] – [ [twitter](https://twitter.com/liikyanov) ] – [ [instagram](http://instagram.com/liikyanov) ]
 
-·͙*̩̩͙˚̩̥̩̥*̩̩̥͙·̩̩̥͙☆*̩̩̥͙˚̩̥̩̥*̩̩͙‧͙[⸍̣⸌•ﻌ•⸍⸌]ﾉ彡*:･ﾟ⋄✧☆·͙*̩̩͙˚̩̥̩̥☆*̩̩̥͙·̩̩̥͙*̩̩̥͙˚̩̥̩̥*̩̩͙‧͙
+·͙*̩̩͙˚̩̥̩̥*̩̩̥͙·̩̩̥͙☆*̩̩̥͙˚̩̥̩̥*̩̩͙‧͙[⸍̣⸌•ﻌ•⸍⸌]ꈤꌩꍏꈤꉓꍏ꓄ﾉ彡*:･ﾟ⋄✧☆·͙*̩̩͙˚̩̥̩̥☆*̩̩̥͙·̩̩̥͙*̩̩̥͙˚̩̥̩̥*̩̩͙‧͙
+
 
 <p align="left">
   <img src="https://github.com/vladimirlukyanov/vladimirlukyanov/blob/master/.imgs/coffee.gif?raw=true" alt="hello" width="15%">

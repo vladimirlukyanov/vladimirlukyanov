@@ -14,6 +14,8 @@
 ∧＿∧<br />
 ｡･ω･｡)つ━☆・*。
 
+╔═════════════════════╗
+
 - ✨&nbsp; Innovative, creative and a proven team player
 - 💻&nbsp; Have 7+ years building developing and managing websites
 - 🛠️&nbsp; Like to use simple and effective solutions
@@ -21,7 +23,7 @@
 - 💬&nbsp; Approachable and effective communicator with all levels of internal/external clients
 - 🦄&nbsp; Fluency in written and spoken English
 
-(¸.·´ (¸.·’* (¸.·’* (¸.·’* (¸.·’* (¸.·’* *¨)
+╚═════════════════════╝
 
 ```diff
 ꧙꧙꧙꧙꧙ ✧/ᐠ-ꞈ-ᐟ\ ꧙꧙꧙꧙꧙꧙꧙

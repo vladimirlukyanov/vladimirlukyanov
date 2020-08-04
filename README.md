@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./.imgs/hello.gif" alt="hello">
+  <img src="https://github.com/vladimirlukyanov/vladimirlukyanov/blob/master/.imgs/hello.gif?raw=true" alt="hello">
 </p>
 
 ### Hi there, I'm Vladimir Lukyanov 👋

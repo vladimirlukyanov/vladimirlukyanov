@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://github.com/vladimirlukyanov/vladimirlukyanov/blob/master/.imgs/car.gif?raw=true" alt="hello" width="50%">
+  <img src="https://github.com/vladimirlukyanov/vladimirlukyanov/blob/master/.imgs/coffee.gif?raw=true" alt="hello" width="15%">
 </p>
 
 ### Hi there, I'm Vladimir Lukyanov 👋
@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 <p align="left">
-  <img src="https://github.com/vladimirlukyanov/vladimirlukyanov/blob/master/.imgs/detective.gif?raw=true" alt="hello" width="25%">
+  <img src="https://github.com/vladimirlukyanov/vladimirlukyanov/blob/master/.imgs/detective.gif?raw=true" alt="hello" width="15%">
 </p>
 
 ### Connect with me:

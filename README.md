@@ -9,14 +9,14 @@
 ▁ ▂ ▃ ▄ ▅ ▆ ▇ ▌　𝔄𝔟𝔬𝔲𝔱 𝔐𝔢　 ▌ ▇ ▆ ▅ ▄ ▃ ▂ ▁
 
 
-### 👋  Hi there, I'm Vladimir Lukyanov
+### 👋&nbsp; Hi there, I'm Vladimir Lukyanov
 
-- ✨  Innovative, creative and a proven team player
-- 💻  Have 7+ years building developing and managing websites
-- 🛠️  Like to use simple and effective solutions
-- 📙  Quick learner
-- 💬  Approachable and effective communicator with all levels of internal/external clients
-- 🦄  Fluency in written and spoken English
+- ✨&nbsp; Innovative, creative and a proven team player
+- 💻&nbsp; Have 7+ years building developing and managing websites
+- 🛠️&nbsp; Like to use simple and effective solutions
+- 📙&nbsp; Quick learner
+- 💬&nbsp; Approachable and effective communicator with all levels of internal/external clients
+- 🦄&nbsp; Fluency in written and spoken English
 
 ```diff
 ꧙꧙꧙꧙꧙ ✧/ᐠ-ꞈ-ᐟ\ ꧙꧙꧙꧙꧙꧙꧙
@@ -37,7 +37,7 @@
   <img src="https://github.com/vladimirlukyanov/vladimirlukyanov/blob/master/.imgs/coffee.gif?raw=true" alt="hello" width="15%">
 </p>
 
-### 📺  Latest YouTube Videos
+### 📺&nbsp; Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [SpeedRun frontend coding | UltraTendency coding test](https://www.youtube.com/watch?v=rcj9HwMnsus)
 <!-- YOUTUBE:END -->

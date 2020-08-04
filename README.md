@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 <p align="left">
-  <img src="https://github.com/vladimirlukyanov/vladimirlukyanov/blob/master/.imgs/detective.gif?raw=true" alt="hello" width="50%">
+  <img src="https://github.com/vladimirlukyanov/vladimirlukyanov/blob/master/.imgs/detective.gif?raw=true" alt="hello" width="25%">
 </p>
 
 ### Connect with me:

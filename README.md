@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://github.com/vladimirlukyanov/vladimirlukyanov/blob/master/.imgs/hello2.gif?raw=true" alt="hello">
+<p align="left">
+  <img src="https://github.com/vladimirlukyanov/vladimirlukyanov/blob/master/.imgs/hello.gif?raw=true" alt="hello" width="50%">
 </p>
 
 ### Hi there, I'm Vladimir Lukyanov 👋
@@ -11,9 +11,4 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Connect with me:
-[[nulllab.net](https://nulllab.net)]
-
-[<img align="left" alt="nulllab.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="a home academy | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="liikyanov" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="liikyanov | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[ [nulllab.net](https://nulllab.net) ] – [ [youtube](https://www.youtube.com/channel/UCplOorzqj4lqljTh77CID_w) ] – [ [twitter](https://twitter.com/liikyanov) ] – [ [instagram](http://instagram.com/liikyanov) ]

@@ -11,11 +11,12 @@
 
 ### 👋 Hi there, I'm Vladimir Lukyanov
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ✨ Innovative, creative and a proven team player
+- 💻 Have 7+ years building developing and managing websites
+- 🛠️ Like to use simple and effective solutions
+- 📙 Quick learner
+- 💬 Approachable and effective communicator with all levels of internal/external clients
+- 🦄 Fluency in written and spoken English
 
 ```diff
 ꧙꧙꧙꧙꧙ ✧/ᐠ-ꞈ-ᐟ\ ꧙꧙꧙꧙꧙꧙꧙

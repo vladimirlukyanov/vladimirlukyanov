@@ -17,6 +17,9 @@
 ∧＿∧<br />
 ｡･ω･｡)つ━☆・*。
 
+
+– [ <a href="https://twitter.com/liikyanov"><img src="./imgs/twitter.svg"></a> ] – [ <a href="https://instagram.com/liikyanov"><img src="./imgs/instagram.svg"></a> ] –
+
 ╭─━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━─╮
 
 - ✨&nbsp; Innovative, creative and a proven team player

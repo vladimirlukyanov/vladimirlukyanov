@@ -6,17 +6,14 @@
   <img src="https://github.com/vladimirlukyanov/vladimirlukyanov/blob/master/.imgs/hello5.gif?raw=true" alt="hello" width="50%">
 </p>
 
-▁ ▂ ▃ ▄ ▅ ▆ ▇ ▌　𝔄𝔟𝔬𝔲𝔱 𝔐𝔢　 ▌ ▇ ▆ ▅ ▄ ▃ ▂ ▁
-
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/liikyanov?style=social)](https://twitter.com/liikyanov)
-[![GitHub Thaiane](https://img.shields.io/github/followers/vladimirlukyanov?label=follow&style=social)](https://github.com/liikyanov)
-
 
 ## 👋&nbsp; Hi there, I'm Vladimir Lukyanov
 
 ∧＿∧<br />
 ｡･ω･｡)つ━☆・*。
 
+[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/liikyanov?style=social)](https://twitter.com/liikyanov)
+[![GitHub Thaiane](https://img.shields.io/github/followers/vladimirlukyanov?label=follow&style=social)](https://github.com/liikyanov)
 
 ╭─━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━─╮
 

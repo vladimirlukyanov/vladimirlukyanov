@@ -12,7 +12,7 @@
 ∧＿∧<br />
 ｡･ω･｡)つ━☆・*。
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/liikyanov?style=social)](https://twitter.com/liikyanov)
+[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/liikyanov?style=social)](https://twitter.com/liikyanov) &nbsp;
 [![GitHub Thaiane](https://img.shields.io/github/followers/vladimirlukyanov?label=follow&style=social)](https://github.com/liikyanov)
 
 ╭─━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━─╮

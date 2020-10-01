@@ -37,7 +37,7 @@
   <img src="https://github.com/vladimirlukyanov/vladimirlukyanov/blob/master/.imgs/detective.gif?raw=true" alt="hello" width="15%">
 </p>
 
-## Connect with me:
+## ✨&nbsp; Connect with me:
 [ [nulllab.net](https://nulllab.net) ] – [ [youtube](https://www.youtube.com/channel/UCplOorzqj4lqljTh77CID_w) ] – [ [twitter](https://twitter.com/liikyanov) ] – [ [instagram](https://instagram.com/liikyanov) ]
 
 ·͙*̩̩͙˚̩̥̩̥*̩̩̥͙·̩̩̥͙☆*̩̩̥͙˚̩̥̩̥*̩̩͙‧͙[⸍̣⸌•ﻌ•⸍⸌]ꈤꌩꍏꈤꉓꍏ꓄ﾉ彡*:･ﾟ⋄✧☆·͙*̩̩͙˚̩̥̩̥☆*̩̩̥͙·̩̩̥͙*̩̩̥͙˚̩̥̩̥*̩̩͙‧͙

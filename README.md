@@ -18,7 +18,7 @@
 ｡･ω･｡)つ━☆・*。
 
 
-– [ <a href="https://twitter.com/liikyanov"><img src="./imgs/twitter.svg"></a> ] – [ <a href="https://instagram.com/liikyanov"><img src="./imgs/instagram.svg"></a> ] –
+– [ <a href="https://twitter.com/liikyanov"><img src="https://github.com/vladimirlukyanov/vladimirlukyanov/blob/master/.imgs/twitter.svg"></a> ] – [ <a href="https://instagram.com/liikyanov"><img src="https://github.com/vladimirlukyanov/vladimirlukyanov/blob/master/.imgs/instagram.svg"></a> ] –
 
 ╭─━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━─╮
 

@@ -15,16 +15,12 @@
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/liikyanov?style=social)](https://twitter.com/liikyanov) &nbsp;
 [![GitHub Thaiane](https://img.shields.io/github/followers/vladimirlukyanov?label=follow&style=social)](https://github.com/liikyanov)
 
-╭─━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━─╮
-
 - ✨&nbsp; Innovative, creative and a proven team player
 - 💻&nbsp; Have 7+ years building developing and managing websites
 - 🛠️&nbsp; Like to use simple and effective solutions
 - 📙&nbsp; Quick learner
 - 💬&nbsp; Approachable and effective communicator with internal/external clients
 - 🦄&nbsp; Fluency in written and spoken English
-
-╰─━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━─╯
 
 ▲ △ ▼ ▽ Δ 
 

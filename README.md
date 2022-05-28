@@ -16,7 +16,7 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/vladimirlukyanov?label=follow&style=social)](https://github.com/liikyanov)
 
 - ✨&nbsp; Innovative, creative and a proven team player
-- 💻&nbsp; Have 7+ years building developing and managing websites
+- 💻&nbsp; Have 10+ years building developing and managing websites
 - 🛠️&nbsp; Like to use simple and effective solutions
 - 📙&nbsp; Quick learner
 - 💬&nbsp; Approachable and effective communicator with internal/external clients
@@ -35,7 +35,9 @@
 ## ✨&nbsp; Connect with me:
 [ [nulllab.net](https://nulllab.net) ] – [ [youtube](https://www.youtube.com/channel/UCplOorzqj4lqljTh77CID_w) ] – [ [twitter](https://twitter.com/liikyanov) ] – [ [instagram](https://instagram.com/liikyanov) ]
 
+```diff
 ·͙*̩̩͙˚̩̥̩̥*̩̩̥͙·̩̩̥͙☆*̩̩̥͙˚̩̥̩̥*̩̩͙‧͙[⸍̣⸌•ﻌ•⸍⸌]ꈤꌩꍏꈤꉓꍏ꓄ﾉ彡*:･ﾟ⋄✧☆·͙*̩̩͙˚̩̥̩̥☆*̩̩̥͙·̩̩̥͙*̩̩̥͙˚̩̥̩̥*̩̩͙‧͙
+```
 
 <br />
 
@@ -50,7 +52,7 @@
 
 
 <p align="left">
-  <img src="https://github.com/vladimirlukyanov/vladimirlukyanov/blob/master/.imgs/hello.gif?raw=true" alt="hello" width="50%">
+  <img src="https://github.com/vladimirlukyanov/vladimirlukyanov/blob/master/.imgs/hello.gif?raw=true" alt="hello" width="35%">
 </p>
 
 ```diff

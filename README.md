@@ -50,7 +50,6 @@
 - [SpeedRun frontend coding | UltraTendency coding test](https://www.youtube.com/watch?v=rcj9HwMnsus)
 <!-- YOUTUBE:END -->
 
-
 <p align="left">
   <img src="https://github.com/vladimirlukyanov/vladimirlukyanov/blob/master/.imgs/hello.gif?raw=true" alt="hello" width="35%">
 </p>

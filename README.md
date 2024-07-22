@@ -12,8 +12,8 @@
 ∧＿∧<br />
 ｡･ω･｡)つ━☆・*。
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/liikyanov?style=social)](https://twitter.com/liikyanov) &nbsp;
-[![GitHub Thaiane](https://img.shields.io/github/followers/vladimirlukyanov?label=follow&style=social)](https://github.com/liikyanov)
+[![Twitter](https://img.shields.io/twitter/follow/liikyanov?style=social)](https://twitter.com/vovalukyanov) &nbsp;
+[![GitHub](https://img.shields.io/github/followers/vladimirlukyanov?label=follow&style=social)](https://github.com/vladimirlukyanov)
 
 - ✨&nbsp; Innovative, creative and a proven team player
 - 💻&nbsp; Have 10+ years building developing and managing websites
@@ -33,7 +33,7 @@
 </p>
 
 ## ✨&nbsp; Connect with me:
-[ [nulllab.net](https://nulllab.net) ] – [ [youtube](https://www.youtube.com/channel/UCplOorzqj4lqljTh77CID_w) ] – [ [twitter](https://twitter.com/liikyanov) ] – [ [instagram](https://instagram.com/liikyanov) ]
+[ [nulllab.net](https://nulllab.net) ] – [ [youtube](https://www.youtube.com/@slav_academy) ] – [ [twitter](https://twitter.com/vovalukyanov) ] – [ [instagram](https://instagram.com/vladimir_v_lukyanov) ]
 
 ```diff
 ·͙*̩̩͙˚̩̥̩̥*̩̩̥͙·̩̩̥͙☆*̩̩̥͙˚̩̥̩̥*̩̩͙‧͙[⸍̣⸌•ﻌ•⸍⸌]ꈤꌩꍏꈤꉓꍏ꓄ﾉ彡*:･ﾟ⋄✧☆·͙*̩̩͙˚̩̥̩̥☆*̩̩̥͙·̩̩̥͙*̩̩̥͙˚̩̥̩̥*̩̩͙‧͙
@@ -46,9 +46,8 @@
 </p>
 
 ## 📺&nbsp; Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [SpeedRun frontend coding | UltraTendency coding test](https://www.youtube.com/watch?v=rcj9HwMnsus)
-<!-- YOUTUBE:END -->
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
 
 <p align="left">
   <img src="https://github.com/vladimirlukyanov/vladimirlukyanov/blob/master/.imgs/hello.gif?raw=true" alt="hello" width="35%">
